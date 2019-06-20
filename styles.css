@@ -1,0 +1,52 @@
+.quiz {
+  display: none;
+}
+#btn1 {
+  font-size: 20pt;
+}
+#btn2 {
+  font-size: 20pt;
+}
+a.button-hover {
+    cursor: pointer;
+}
+.form-group {
+  font-size: 16;
+}
+
+ /* .jumbotron {
+   background-color: #666699;
+   text-shadow: 10pt;
+   font-size: ;
+   font-style: bold; */
+}
+#result {
+  display: none;
+}
+body {
+ /* background-image: url("images/Background.jpg"); */
+ background-color: #cccccc;
+ font-style: normal;
+ font-family: Quesha;
+ font-size: 18pt;
+ text-align: center;
+}
+.radio1 {
+  text-align: justify;
+}
+.shirt {
+  text-align: center;
+}
+.place {
+  text-align: justify;
+}
+.radio4 {
+  text-align: justify;
+}
+#result {
+  display: none;
+}
+h1 {
+  font-weight: normal;
+  font-size: 75pt;
+}
